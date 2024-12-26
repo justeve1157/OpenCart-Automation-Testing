@@ -1,5 +1,7 @@
-Selenium Automation Project: Opencaert E-Commerce Website
+Selenium Automation Project: Opencaert E-Commerce Website            
+
 Website Link - https://awesomeqa.com/ui/
+
 Website Snapshot -
 ![image](https://github.com/user-attachments/assets/f6373c68-5c29-4cb2-96a6-1798166a6201)
 
