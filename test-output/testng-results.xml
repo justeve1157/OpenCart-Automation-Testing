@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="40" passed="37" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-26T18:37:46 IST" name="Default suite" finished-at="2024-12-26T18:40:14 IST" duration-ms="147736">
+    <groups>
+    </groups>
+    <test started-at="2024-12-26T18:37:46 IST" name="Default test" finished-at="2024-12-26T18:40:14 IST" duration-ms="147736">
+      <class name="com.TestCases.LoginTestCase">
+        <test-method signature="CheckHeading1()[pri:1, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:37:46 IST" name="CheckHeading1" finished-at="2024-12-26T18:37:50 IST" duration-ms="4468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckHeading1 -->
+        <test-method signature="CheckHeading2()[pri:2, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:37:50 IST" name="CheckHeading2" finished-at="2024-12-26T18:37:53 IST" duration-ms="2652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckHeading2 -->
+        <test-method signature="CheckHeading3()[pri:3, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:37:53 IST" name="CheckHeading3" finished-at="2024-12-26T18:37:57 IST" duration-ms="3682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckHeading3 -->
+        <test-method signature="CheckInvalidLogin()[pri:4, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:37:57 IST" name="CheckInvalidLogin" finished-at="2024-12-26T18:38:01 IST" duration-ms="4228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckInvalidLogin -->
+        <test-method signature="CheckLogin()[pri:5, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:01 IST" name="CheckLogin" finished-at="2024-12-26T18:38:04 IST" duration-ms="3038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckLogin -->
+        <test-method signature="CheckMacbook()[pri:6, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:04 IST" name="CheckMacbook" finished-at="2024-12-26T18:38:07 IST" duration-ms="3101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckMacbook -->
+        <test-method signature="AddtoCart()[pri:7, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:07 IST" name="AddtoCart" finished-at="2024-12-26T18:38:10 IST" duration-ms="2789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtoCart -->
+        <test-method signature="CheckSearchBox()[pri:8, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:10 IST" name="CheckSearchBox" finished-at="2024-12-26T18:38:13 IST" duration-ms="2765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBox -->
+        <test-method signature="CheckContact()[pri:9, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:13 IST" name="CheckContact" finished-at="2024-12-26T18:38:17 IST" duration-ms="4317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckContact -->
+        <test-method signature="CheckWishList()[pri:10, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:17 IST" name="CheckWishList" finished-at="2024-12-26T18:38:20 IST" duration-ms="2914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckWishList -->
+        <test-method signature="CheckPhones()[pri:11, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:20 IST" name="CheckPhones" finished-at="2024-12-26T18:38:23 IST" duration-ms="2899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckPhones -->
+        <test-method signature="CheckTablet()[pri:12, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:23 IST" name="CheckTablet" finished-at="2024-12-26T18:38:26 IST" duration-ms="3058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTablet -->
+        <test-method signature="CheckCamera()[pri:13, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:26 IST" name="CheckCamera" finished-at="2024-12-26T18:38:29 IST" duration-ms="3400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckCamera -->
+        <test-method signature="CheckMP3()[pri:14, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:29 IST" name="CheckMP3" finished-at="2024-12-26T18:38:33 IST" duration-ms="4138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckMP3 -->
+        <test-method signature="CheckLaptopsNotebooks()[pri:15, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:33 IST" name="CheckLaptopsNotebooks" finished-at="2024-12-26T18:38:38 IST" duration-ms="4216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckLaptopsNotebooks -->
+        <test-method signature="CheckComponents()[pri:16, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:38 IST" name="CheckComponents" finished-at="2024-12-26T18:38:41 IST" duration-ms="3095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckComponents -->
+        <test-method signature="CheckComponents2()[pri:17, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:41 IST" name="CheckComponents2" finished-at="2024-12-26T18:38:45 IST" duration-ms="4081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckComponents2 -->
+        <test-method signature="CheckAboutUs()[pri:18, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:45 IST" name="CheckAboutUs" finished-at="2024-12-26T18:38:49 IST" duration-ms="3917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckAboutUs -->
+        <test-method signature="CheckContactUs()[pri:19, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:49 IST" name="CheckContactUs" finished-at="2024-12-26T18:38:52 IST" duration-ms="3034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckContactUs -->
+        <test-method signature="CheckSiteMap()[pri:20, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:52 IST" name="CheckSiteMap" finished-at="2024-12-26T18:38:55 IST" duration-ms="3638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSiteMap -->
+        <test-method signature="CheckAllBrands()[pri:21, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:55 IST" name="CheckAllBrands" finished-at="2024-12-26T18:38:59 IST" duration-ms="3233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckAllBrands -->
+        <test-method signature="CheckwishList()[pri:22, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:38:59 IST" name="CheckwishList" finished-at="2024-12-26T18:39:02 IST" duration-ms="3443" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [My Wish List] but found [Account Login]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [My Wish List] but found [Account Login]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.TestCases.LoginTestCase.CheckwishList(LoginTestCase.java:355)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckwishList -->
+        <test-method signature="CheckNewsletter()[pri:23, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:02 IST" name="CheckNewsletter" finished-at="2024-12-26T18:39:06 IST" duration-ms="4092" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Newsletter Subscribtion] but found [Account Login]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Newsletter Subscribtion] but found [Account Login]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.TestCases.LoginTestCase.CheckNewsletter(LoginTestCase.java:370)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckNewsletter -->
+        <test-method signature="CheckSpecialOffers()[pri:24, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:06 IST" name="CheckSpecialOffers" finished-at="2024-12-26T18:39:10 IST" duration-ms="3715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSpecialOffers -->
+        <test-method signature="CheckTermsConditions()[pri:25, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:10 IST" name="CheckTermsConditions" finished-at="2024-12-26T18:39:15 IST" duration-ms="4733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTermsConditions -->
+        <test-method signature="CheckHeading4()[pri:26, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:15 IST" name="CheckHeading4" finished-at="2024-12-26T18:39:17 IST" duration-ms="2917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckHeading4 -->
+        <test-method signature="CheckFooter1()[pri:27, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:17 IST" name="CheckFooter1" finished-at="2024-12-26T18:39:21 IST" duration-ms="3363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckFooter1 -->
+        <test-method signature="CheckFooter2()[pri:28, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:21 IST" name="CheckFooter2" finished-at="2024-12-26T18:39:24 IST" duration-ms="3549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckFooter2 -->
+        <test-method signature="CheckFooter3()[pri:29, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:24 IST" name="CheckFooter3" finished-at="2024-12-26T18:39:28 IST" duration-ms="3817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckFooter3 -->
+        <test-method signature="CheckFooter4()[pri:30, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:28 IST" name="CheckFooter4" finished-at="2024-12-26T18:39:31 IST" duration-ms="3233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckFooter4 -->
+        <test-method signature="CheckFooter5()[pri:31, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:31 IST" name="CheckFooter5" finished-at="2024-12-26T18:39:35 IST" duration-ms="3333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckFooter5 -->
+        <test-method signature="CheckSearchBoxFun1()[pri:32, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:35 IST" name="CheckSearchBoxFun1" finished-at="2024-12-26T18:39:39 IST" duration-ms="3911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBoxFun1 -->
+        <test-method signature="CheckSearchBoxFun2()[pri:33, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:39 IST" name="CheckSearchBoxFun2" finished-at="2024-12-26T18:39:42 IST" duration-ms="3788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBoxFun2 -->
+        <test-method signature="CheckSearchBoxFun4()[pri:34, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:42 IST" name="CheckSearchBoxFun4" finished-at="2024-12-26T18:39:46 IST" duration-ms="3562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBoxFun4 -->
+        <test-method signature="CheckSearchBoxFun5()[pri:35, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:46 IST" name="CheckSearchBoxFun5" finished-at="2024-12-26T18:39:50 IST" duration-ms="3614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBoxFun5 -->
+        <test-method signature="CheckSearchBoxFun6()[pri:36, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:50 IST" name="CheckSearchBoxFun6" finished-at="2024-12-26T18:39:53 IST" duration-ms="3648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBoxFun6 -->
+        <test-method signature="CheckSearchBoxFun7()[pri:37, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:53 IST" name="CheckSearchBoxFun7" finished-at="2024-12-26T18:39:58 IST" duration-ms="4585" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Hewlett-Packard] but found [Search - HP]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Hewlett-Packard] but found [Search - HP]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.TestCases.LoginTestCase.CheckSearchBoxFun7(LoginTestCase.java:583)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBoxFun7 -->
+        <test-method signature="CheckSearchBoxFun8()[pri:38, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:39:58 IST" name="CheckSearchBoxFun8" finished-at="2024-12-26T18:40:03 IST" duration-ms="5599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBoxFun8 -->
+        <test-method signature="CheckSearchBoxFun9()[pri:39, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:40:04 IST" name="CheckSearchBoxFun9" finished-at="2024-12-26T18:40:10 IST" duration-ms="6074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBoxFun9 -->
+        <test-method signature="CheckSearchBoxFun10()[pri:40, instance:com.TestCases.LoginTestCase@5acf93bb]" started-at="2024-12-26T18:40:10 IST" name="CheckSearchBoxFun10" finished-at="2024-12-26T18:40:14 IST" duration-ms="4011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBoxFun10 -->
+      </class> <!-- com.TestCases.LoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
