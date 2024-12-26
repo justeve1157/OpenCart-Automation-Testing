@@ -35,6 +35,7 @@ Download the  browser driver ChromeDriver
 Clone the repository and set up the project in your preferred IDE.
 
 ecommerce-automation/
+
 ├── src/main/java    # Core project files # Test scripts
 ├── resources/       # Test data, configurations
 ├── reports/         # Test execution reports
