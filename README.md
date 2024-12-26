@@ -7,9 +7,11 @@ Website Snapshot -
 
 
 Introduction -
+
 This project is an automated testing suite designed for an e-commerce website. It leverages Selenium WebDriver to perform end-to-end testing of key functionalities, ensuring the website meets quality standards and delivers a seamless user experience.
 
 Features - 
+
 Automated test scripts for essential e-commerce workflows:
 User login and registration
 Browsing and searching for products
@@ -21,15 +23,22 @@ Logout functionality
 Integration with a testing framework (TestNG).
 
 Tech Stack - 
+
 Programming Language: Java 
 Automation Tool: Selenium WebDriver
 Testing Framework: TestNG
 Build Tool: Maven
 
-IDE: Eclipse
-Version Control: Git
+IDE - 
+
+Eclipse
+
+Version Control -
+
+Git
 
 Prerequisites
+
 Install Java JDK 
 Install Maven 
 Install a web browser -Chrome
